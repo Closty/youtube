@@ -15,4 +15,8 @@ Submit
 
 Get a short url which can be clicked to view Youtube without any socks！
 
+## Update Link
+
+https://s.fqjh.cf (with dynamic ips)
+
 # Some day, i will tell u how to do!Keep watching:)
