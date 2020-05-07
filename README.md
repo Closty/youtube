@@ -1,6 +1,5 @@
 # Share Your Youtubes without any socks
 
-Share YouTube without socks
 
 ## Step1
 
@@ -13,3 +12,5 @@ Submit
 ## Step3
 
 Get a short url which can be clicked to view Youtube without any socks！
+
+# Some day, i will tell u how to do!Keep watching:)
